@@ -1,0 +1,443 @@
+[
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 0.0,
+    "end": 42.24,
+    "text": "Hi, my name is Michael Roger. I'm one of the co-founders of Prop Hero. In this video, I'm going to show you how we are using data to find the best deals. All right, let's start with the absolute basics. In a very, very simplified view, a great investment property is the property that will increase in value, that's capital growth, and that will provide you with strong cash flows. That's rental return. Again, in a very simplified view, capital growth is about investing in an area where in the future, there will be strong demand and low supply."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 42.24,
+    "end": 72.56,
+    "text": "rowth is about investing in an area where in the future, there will be strong demand and low supply. So think about growing population, growing economy, lack of land available, limited space to build new houses. Number two is buying under market price, right? And the idea here is to just negotiate extremely hard to find the best property at the best price. Number three is improvement potential. And here the idea is to buy a property that can gain value over time by making some improvements. So think about renovation, adding a granny flat, adding a fourth bedroom, et cetera."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 72.56,
+    "end": 104.48,
+    "text": "e improvements. So think about renovation, adding a granny flat, adding a fourth bedroom, et cetera. Finally, you want to avoid properties with red flags. So think about properties in a bushfire risk area, in flood risk area, properties with road noise or just next to an airport. You want to avoid these red flags because when the market is not very hot, then these properties are very hard to sell. That's in a simplified view how your property will increase in value over time. Now let's talk about cash flows. Cash flows is more straightforward, right? You want to have a high rental yield."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 104.48,
+    "end": 136.12,
+    "text": "k about cash flows. Cash flows is more straightforward, right? You want to have a high rental yield. So your rental yield is the annual rent you are receiving divided by the price of your property. Number two, what you want to focus on is in areas with growing rents. And in particular, rents growing above inflation. The starting that you want for cash flows is low expenses. So you really want to avoid properties with swimming pools, with high running costs made of materials that are going to degrade over time. Also you want to avoid properties with big strata costs."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 136.12,
+    "end": 166.4,
+    "text": "erials that are going to degrade over time. Also you want to avoid properties with big strata costs. So think about expenses as a measure of your entire cash flows. And finally, what you want to focus on is on properties with low predicted vacancy. And these links to the demand and supply, you want to buy a property that will be really easy to rent. That's of course a very simplified view. In reality, at Prop Zero, we have much more than this. And we use over 100 variables, over 10 million data points to track the entire country."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 166.4,
+    "end": 195.08,
+    "text": "e than this. And we use over 100 variables, over 10 million data points to track the entire country. So 15,000 suburbs in Australia, we track the entire country all the time. And here for these variables, think about macroeconomics like population growth, job creation, average income. Think about supply as well, like development applications, zoning, land available, all of this. Think also about distance to public transport, distance to train, distance to schools, the quality of the schools, crime rates, quality of the streets, quality of the property as well."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 195.08,
+    "end": 227.64,
+    "text": "s, the quality of the schools, crime rates, quality of the streets, quality of the property as well. So think about, yeah, improvement potential, running costs, scarcity level, all of that. Too many to cite right now, but yeah, we use over 200 variables to identify the best areas and the best properties within these areas. So give you an idea about how it works concretely, our data model in the background. So think about correlation on steroids. So we run thousands and thousands of correlation to understand what are the predictive elements of future growth."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 227.64,
+    "end": 258.16,
+    "text": "usands and thousands of correlation to understand what are the predictive elements of future growth. Or what are the indicators we can look at today that will ensure you significantly outperform the market. And so here, for example, we saw that under very specific circumstances, buying in areas with a vacancy rate below 1% is actually a very good indicator of price. Not a silver bullet. There are of course like many, many, many more variables and that's why we use 200 and not just one. But yeah, so just to give you an idea, this is like how we are using data. Now what do we do with it?"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 258.16,
+    "end": 287.32,
+    "text": "ut yeah, so just to give you an idea, this is like how we are using data. Now what do we do with it? So as I was saying, we pack the entire market all the time. And in the entire market, you've got many bad or average or just good properties and just a tiny minority of truly excellent one. So we scan the entire market. We apply our proper algorithm. And then what happens is that we don't share these properties with you straight away. We actually have a team of, as of today, about like 14 property experts and data experts"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 287.32,
+    "end": 320.76,
+    "text": "aight away. We actually have a team of, as of today, about like 14 property experts and data experts who look at these properties and run all the analysis that the data cannot see. So there is a real human component to check every single property with local property knowledge in order to make sure that in the end, we only give you the top 1% deals. And I will say, well, it works. We actually track over time how our clients' investments are performing. And look, average capital growth over the last 12 months. I recorded this video in October 2022."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_1",
+    "title": "PropHero – Intro Video 1",
+    "url": "https://www.youtube.com/watch?v=ED3eypjlfrY",
+    "start": 320.76,
+    "end": 348.04,
+    "text": "ng. And look, average capital growth over the last 12 months. I recorded this video in October 2022. Over the last 12 months, our investments increased by 26% in value. So that's more than twice what happened in the markets. Our rents increased by over 16%, which is 50% above what happened in the markets. Our clients are currently enjoying a 4.7% average yield, which is 35% above markets. So yeah, it just works. Thanks, guys. I hope this was clear. Reach out to your property coach if you have any questions. Thank you. Bye-bye."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_2",
+    "title": "PropHero – Intro Video 2",
+    "url": "https://www.youtube.com/watch?v=uxF2IObEzZg",
+    "start": 0.0,
+    "end": 31.8,
+    "text": "Hi everyone, I'm Carol. I'm part of the Entrepreneurship and Innovation Ecosystems team, part of Investment News at Wales. I'm here at the Sydney Startup Hub today with one of our amazing founders, Pablo, who's the co-founder of Prop Hero. Pablo, tell us a little bit about Prop Hero. So at Prop Hero, we are digitizing all the property investment journey. So our vision is why can't you buy Amazon shares from your phone and you can't buy property anywhere in the world. It's quite an ambitious problem to be solving and a good market to be doing it in."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_2",
+    "title": "PropHero – Intro Video 2",
+    "url": "https://www.youtube.com/watch?v=uxF2IObEzZg",
+    "start": 31.8,
+    "end": 53.28,
+    "text": "ere in the world. It's quite an ambitious problem to be solving and a good market to be doing it in. We are very data-bagged. That's where Michael, my business partner, comes from. He's a double degree mathematician, like super bright guy. I strongly believe ideas are worth 10-15%. Like 100% there's... We are very involved. Anyone can have an idea. Yes, this is how you execute it and I think that's where both Michael and I have excelled on bringing the best talent to the team. We recently celebrated our first year anniversary here."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_2",
+    "title": "PropHero – Intro Video 2",
+    "url": "https://www.youtube.com/watch?v=uxF2IObEzZg",
+    "start": 53.28,
+    "end": 74.72,
+    "text": "led on bringing the best talent to the team. We recently celebrated our first year anniversary here. Congratulations and you've been at the Sydney Startup Hub for the whole... This is the beginning. Since the beginning. Did you meet any kind of government assistance? Yes, we got the MVP grant, which was great. It really helps a lot, especially with tech resources being so expensive. It definitely helps a lot. You get also from the community, like if you're missing on something, you will share or you will tell it, hey, have you applied for this? Okay, then you best get a bit more."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_2",
+    "title": "PropHero – Intro Video 2",
+    "url": "https://www.youtube.com/watch?v=uxF2IObEzZg",
+    "start": 74.72,
+    "end": 103.6,
+    "text": "will share or you will tell it, hey, have you applied for this? Okay, then you best get a bit more. Do you want to tell us a little bit about some accolades you've recently won? Yes, we won the Prop Tech Startup of the year. Congratulations. Yes, helps us building a lot of trust for our clients. We look forward to looking at where Prop Hero is in 12 months time. Thank you very much. And just one last advice. It's a tough journey, as you mentioned before. You have to be ready and committed to not have a vacation or being paid nothing. There's a lot into it, but it fulfills you a lot."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_2",
+    "title": "PropHero – Intro Video 2",
+    "url": "https://www.youtube.com/watch?v=uxF2IObEzZg",
+    "start": 103.6,
+    "end": 107.6,
+    "text": "tted to not have a vacation or being paid nothing. There's a lot into it, but it fulfills you a lot. That's great. Thank you so much. Awesome. Thank you very much."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 0.0,
+    "end": 42.0,
+    "text": "Property investment is a game that anyone can win. It is not just for the elite or for the lucky few. It's for everyday Aussies just like you, who dream of a financial freedom and a secure future. But despite this, 98% of Aussies state all the signlines watching others get rich. Why? Because winning requires three key things that most people don't have. Number one is time. Between working family, few have the hours to research the markets, inspect properties or do proper due diligence. Number two is school. Without access to professional level data,"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 42.0,
+    "end": 78.24,
+    "text": "perties or do proper due diligence. Number two is school. Without access to professional level data, people make costly decisions based on incomplete information. And number three is knowledge. Without experience, every decision can feel like a high-risk gamble. But fortunately, you don't have to be part of those 98%. In fact, by watching this video, you've already put yourself ahead of the pack. The reality is, diving into the real estate market without time, tools or knowledge can feel like you are trying to serve a Rubik's cube blindfolded."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 78.24,
+    "end": 115.12,
+    "text": "t without time, tools or knowledge can feel like you are trying to serve a Rubik's cube blindfolded. And right now, you are probably asking yourself, which area should I be looking at? How do I know if a property is a good purchase? When is the right time to buy? Well, these questions can paralyze even the most motivated investors. But what if I told you there is a way to answer all these questions with a pinpoint accuracy? A way to strategically build your own portfolio using each successful investment to power the next, creating a snowball of wealth over time."
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 115.76,
+    "end": 153.52,
+    "text": "rtfolio using each successful investment to power the next, creating a snowball of wealth over time. And that is why we created Prop Hero to help everyday Aussies find, buy and manage high return low risk investment properties. Unlike other platforms that leave you on your own or buy as agents with only a six-week course, Prop Hero is your expert property investment partner. We use data-driven analysis to identify high return properties and guide you through out these key phases. Phase number one, it's acquisition. We help you build a solid foundation"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 153.52,
+    "end": 193.92,
+    "text": "rough out these key phases. Phase number one, it's acquisition. We help you build a solid foundation with high growth properties. Number two, it's consolidation. We use each investment to feel the next. And number three is lifestyle. We handle property management while you enjoy your financial freedom. And how do we do it? Well, it's simple. We find you perfect properties, our AI power data model, which consistently outperform the market by over 170%. It scans thousands of neighborhoods to find the best opportunities for you. We combine this with our expert insights to find"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 193.92,
+    "end": 231.6,
+    "text": "ighborhoods to find the best opportunities for you. We combine this with our expert insights to find high return investments, including off-market properties that are not available to the public. So step two, we handle all the buying process for you. From negotiating the best price to organize inspections, we take care of the details, ensuring a smooth, stress-free experience for you. Step three, we bring everything together in one simple intuitive app. From mortgage to legal services, to financial advice, to property management, our vetted partners handle everything you need"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 231.6,
+    "end": 272.0,
+    "text": "ervices, to financial advice, to property management, our vetted partners handle everything you need to succeed through your investment journey. With over one billion in assets, we have proven expertise and track record to guide your property investment success. This exact proven process has already helped over 1,300 regular Aussies make enough money from property to quit their jobs, send up a steady cash flow, and build wealth that will take care of their kids and grandkids for years to come. Well, like Sarah, an overworked nurse in her 30s. Sarah knew she needed to invest,"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 272.0,
+    "end": 309.04,
+    "text": "or years to come. Well, like Sarah, an overworked nurse in her 30s. Sarah knew she needed to invest, but she always felt overwhelmed by the process. And within 12 months of working with Prop Hero, she acquired two high-growth properties and its own track to retire a millionaire by the age of 44. Or Mark and Lisa, a couple in their 40s that within two years with Prop Hero, they built a three-property portfolio generating a whopping $3,800 monthly in passive income. They are now on track for early retirement and fully funded education for their kids. And this isn't a far"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 309.04,
+    "end": 340.32,
+    "text": "re now on track for early retirement and fully funded education for their kids. And this isn't a far off dream. This is a reality for Prop Hero clients. They experience this every day. Now, I know that you are thinking, but this sounds great, but I don't have millions to start buying properties. Well, good news. You don't need to. With the right strategy, you can start building your property portfolio with as little as $75,000 to turn your property investment dreams into reality and start building lasting wealth. I would like to invite you for a free investment strategy"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 340.32,
+    "end": 372.64,
+    "text": "reality and start building lasting wealth. I would like to invite you for a free investment strategy session. And in this session, we work together to uncover your true financial aspirations and here we'll discuss when do you want to replace your current income, if and when you'd like to leave your job while maintaining your lifestyle and the passive income you aim from your property portfolio. Then we'll craft a personalized investment strategy based on your goals, will determine whether a high growth or a cash flow focused portfolio suits you best, and then we'll"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 372.64,
+    "end": 407.76,
+    "text": "will determine whether a high growth or a cash flow focused portfolio suits you best, and then we'll design a custom property roadmap. We'll outline the exact steps you need to take, align with your income replacement timeline to turn your property investment dreams into a reality. And whether you're a first time investor or already own properties, our strategy session will put you on the fast track to reaching your financial goals. But please note, due to the high level demand, we only have capacity for 15 sessions per week and sports are filling up fast. So if you"
+  },
+  {
+    "source_type": "video",
+    "video_id": "prophero_video_3",
+    "title": "PropHero – Intro Video 3",
+    "url": "https://www.youtube.com/watch?v=5Kca3nOrefY",
+    "start": 407.76,
+    "end": 434.32,
+    "text": "vel demand, we only have capacity for 15 sessions per week and sports are filling up fast. So if you are serious about creating a life of financial freedom and lasting wealth for you and your family, click and book now and don't let another day go by watching others build wealth while you sit on the sidelines. Secure your strategy session now before sports fill up. Book a free investment session strategy and start your journey to financial freedom today."
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_mistakes",
+    "title": "The Most Common Property Investment Mistakes That Can Easily Be Avoided",
+    "url": "https://www.prophero.com/the-most-common-property-investment-mistakes-that-can-easily-be-avoided/",
+    "start": null,
+    "end": null,
+    "text": "How it works About us Data and AI Press and Blog How it works About us Data and AI Press and Blog EN ES Book a free investment session Prophero October 13, 2025 The Most Common Property Investment Mistakes That Can Easily Be Avoided Believe it or not, there are common investment mistakes that seasoned investors make everyday. Investing in property is a big decision, and even a small mistake can cost hundreds of thousands of dollars or slow your investment goals down by years. At PropHero, we care about investors and want to democratise property investment for everyone. That’s why we’re giving you the lessons we’ve learned over the years so you don’t make these same mistakes. Let’s get into it. Mistake #1. Using your emotions to guide you It sounds weird. We know. But buying property with y"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_mistakes",
+    "title": "The Most Common Property Investment Mistakes That Can Easily Be Avoided",
+    "url": "https://www.prophero.com/the-most-common-property-investment-mistakes-that-can-easily-be-avoided/",
+    "start": null,
+    "end": null,
+    "text": "t. Mistake #1. Using your emotions to guide you It sounds weird. We know. But buying property with your emotions is one of the biggest mistakes we see many investors make everyday. Maybe they want to invest or buy in an area close to home. Or maybe they feel the latest property they saw was made for them. All we can say is buying with your emotions makes it harder for you to assess a property in an objective way. Failing to assess the location of the property and whether it might be impacted by climate change, or the location and how the price might impact your ability to buy future properties are some of the biggest mistakes we see people make. And that leads us to the second mistake… Mistake #2: You do not have to invest in property where you live With services like PropHero, you do not"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_mistakes",
+    "title": "The Most Common Property Investment Mistakes That Can Easily Be Avoided",
+    "url": "https://www.prophero.com/the-most-common-property-investment-mistakes-that-can-easily-be-avoided/",
+    "start": null,
+    "end": null,
+    "text": "ke #2: You do not have to invest in property where you live With services like PropHero, you do not need to invest in property in your local area anymore. It may be tempting to go to open houses in your local area on the weekend to see if you can snag a deal, but it’s really not necessary. If you are focused on only purchasing in your local area, you are cutting yourself off from some the best deals you can find. There are properties in cheaper locations, but you won’t be able to access them if you only want to purchase in your existing state. Mistake #3: You’re not checking the property for its biggest risks If you are only concerned with price and want to snag a deal as quickly as possible, then you may not be giving yourself enough time to do your due diligence with the property. There"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_mistakes",
+    "title": "The Most Common Property Investment Mistakes That Can Easily Be Avoided",
+    "url": "https://www.prophero.com/the-most-common-property-investment-mistakes-that-can-easily-be-avoided/",
+    "start": null,
+    "end": null,
+    "text": ", then you may not be giving yourself enough time to do your due diligence with the property. There are over 200 variables our team checks with every property we purchase for clients, and if a property doesn’t make the cut, then we simply won’t purchase it. Doing your due diligence and checking the property for the basics including flood and fire risks, noise, infrastructure projects and macroeconomic conditions will make a massive difference to you succeeding in growing a profitable property portfolio Every year, we assess 18,000 properties, but we only purchase 500. This is because due diligence is such a massive factor for us. Conclusion: Avoiding these mistakes can be the difference between a profitable investment and a major headache. The key is to keep a cool head, analyze the data,"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_mistakes",
+    "title": "The Most Common Property Investment Mistakes That Can Easily Be Avoided",
+    "url": "https://www.prophero.com/the-most-common-property-investment-mistakes-that-can-easily-be-avoided/",
+    "start": null,
+    "end": null,
+    "text": "een a profitable investment and a major headache. The key is to keep a cool head, analyze the data, and rely on experts to help you make informed decisions. Go Back to Blog Book a call PropHero About PropHero How it works Data & AI Resources Press and Blogs Refer a friend Frequently asked questions 2025 | © PropHero | All rights reserved Terms and Conditions Privacy Policy Cookies Policy Legal"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_capital_gains",
+    "title": "Capital Gains 101: A Simplified Guide for Smart Property Investing",
+    "url": "https://www.prophero.com/capital-gains-101-a-simplified-guide-for-smart-property-investing/",
+    "start": null,
+    "end": null,
+    "text": "How it works About us Data and AI Press and Blog How it works About us Data and AI Press and Blog EN ES Book a free investment session Prophero March 4, 2025 Capital Gains 101: A Simplified Guide for Smart Property Investing So you’re diving into the world of capital gains, and let me tell you, it’s more than just buying and selling assets. We’re talking about understanding the market game, planning your moves, and keeping an eye on those tax details. In this no-nonsense guide, we’re going to break down the jargon and give you practical strategies to rock your investment game. What Are Capital Gains? So, capital gains? A capital gain occurs when you sell an asset for more than what you initially paid to acquire that asset, reflecting the financial success of an investment. Types of Capital"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_capital_gains",
+    "title": "Capital Gains 101: A Simplified Guide for Smart Property Investing",
+    "url": "https://www.prophero.com/capital-gains-101-a-simplified-guide-for-smart-property-investing/",
+    "start": null,
+    "end": null,
+    "text": "ally paid to acquire that asset, reflecting the financial success of an investment. Types of Capital Gains: Now, let’s chat about short-term and long-term gains. Short-term gains, applicable to assets held for one year or less, incur higher ordinary income tax rates. Conversely, long-term gains, arising from assets held for more than a year, often enjoy preferential tax rates. How Capital Gains Tax Works: Investors are obligated to pay taxes on capital gains, and this tax liability pertains to the tax year in which the investment is sold. The classification of capital gains tax varies depending on the duration of asset ownership. For investors holding an asset for a minimum of 1 year, long-term capital gains tax is applicable to the profits garnered upon the sale of the asset. Investors wi"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_capital_gains",
+    "title": "Capital Gains 101: A Simplified Guide for Smart Property Investing",
+    "url": "https://www.prophero.com/capital-gains-101-a-simplified-guide-for-smart-property-investing/",
+    "start": null,
+    "end": null,
+    "text": "erm capital gains tax is applicable to the profits garnered upon the sale of the asset. Investors with an asset ownership period of less than 1 year are subject to short-term capital gains tax on the profits generated from the asset sale. These two types of gains incur different tax rates. Factors Influencing Capital Gains: Market Conditions: Market conditions significantly impact capital gains by influencing asset valuation, supply and demand, economic trends, and regulatory environments. Bullish markets may lead to appreciating asset values and favourable gains, while bearish markets can diminish gains or result in losses. Keeping your finger on the pulse of economic trends and market cycles is like having a superpower. Stay in the know, and you’ll make smarter investment moves. Tax Impl"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_capital_gains",
+    "title": "Capital Gains 101: A Simplified Guide for Smart Property Investing",
+    "url": "https://www.prophero.com/capital-gains-101-a-simplified-guide-for-smart-property-investing/",
+    "start": null,
+    "end": null,
+    "text": "es is like having a superpower. Stay in the know, and you’ll make smarter investment moves. Tax Implications: The tax legislation favours individuals with long-term investment horizons (1 year or more), while it poses a disadvantage to those attempting to engage in frequent buying and selling of assets within a short timeframe. It’s crucial to have a clear understanding of the tax implications tied to your gains, aligning with your specific investment strategy. Implementing Capital Gains Strategies: Diversification and Risk Mitigation: Spread your investments like peanut butter on bread. A diversified portfolio serves as a risk mitigation tool, fostering a balanced approach to potential gains and losses. Holding Period and Tax-Efficient Investing: Increase the duration of your holding peri"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_capital_gains",
+    "title": "Capital Gains 101: A Simplified Guide for Smart Property Investing",
+    "url": "https://www.prophero.com/capital-gains-101-a-simplified-guide-for-smart-property-investing/",
+    "start": null,
+    "end": null,
+    "text": "s and losses. Holding Period and Tax-Efficient Investing: Increase the duration of your holding period: retaining investments for over a year ensures more favorable tax treatments when the decision to sell is made. Regular Portfolio Review: Don’t let your investments gather dust. Regularly check in, adjust based on market trends, and balance your portfolio. Proactive portfolio management ensures alignment with your financial goals, fostering sustained growth. So, there you have it – navigating the realm of capital gains requires a balanced blend of practical knowledge and strategic insight. A well-informed and disciplined approach is your secret sauce to unlock the full potential of capital gains in your investment journey. Happy investing, my financial friend! Ready to embark on your inve"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_capital_gains",
+    "title": "Capital Gains 101: A Simplified Guide for Smart Property Investing",
+    "url": "https://www.prophero.com/capital-gains-101-a-simplified-guide-for-smart-property-investing/",
+    "start": null,
+    "end": null,
+    "text": "gains in your investment journey. Happy investing, my financial friend! Ready to embark on your investment journey with confidence? Take the first step towards financial success by booking a free investment session with our experts. Gain valuable insights, ask questions, and kickstart your path to making informed investment decisions. Go Back to Blog Book a call PropHero About PropHero How it works Data & AI Resources Press and Blogs Refer a friend Frequently asked questions 2025 | © PropHero | All rights reserved Terms and Conditions Privacy Policy Cookies Policy Legal"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_rental_yield",
+    "title": "Are You Calculating Rental Yield Correctly?",
+    "url": "https://www.prophero.com/are-you-calculating-rental-yield-correctly/",
+    "start": null,
+    "end": null,
+    "text": "How it works About us Data and AI Press and Blog How it works About us Data and AI Press and Blog EN ES Book a free investment session Prophero January 22, 2025 Are You Calculating Rental Yield Correctly? If you’re new to investing in property, there’s probably a lot of information flying at you about which area to invest in, which strategy to use, what buyers are the best and how to flip properties. Well. The list goes on. One thing that is really critical to get right at the beginning is rental yield, and it’s something we see our clients calculate incorrectly all the time. But don’t stress! We are here to show you how to calculate it based on two commonly used formulas and you’ll be surprised just how easy it is to calculate. But firstly. Let’s get on the same page about what “rental yi"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_rental_yield",
+    "title": "Are You Calculating Rental Yield Correctly?",
+    "url": "https://www.prophero.com/are-you-calculating-rental-yield-correctly/",
+    "start": null,
+    "end": null,
+    "text": "ised just how easy it is to calculate. But firstly. Let’s get on the same page about what “rental yield” really is. What is rental yield? Rental yield is a percentage that is used to express how profitable a property would be or currently is. It’s based on annual earnings, giving you a long term view on the feasibility of making an investment property work within the bounds of your budget and goals. How to Calculate Rental Yield Different Kinds of Rental Yield Some people get stuck calculating rental yield because there are two additional kinds which may impact your end result. Gross Rental Yield: This calculation considers only the rental income relative to the property’s total value or cost. It does not take into account other expenses associated with property ownership, such as property"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_rental_yield",
+    "title": "Are You Calculating Rental Yield Correctly?",
+    "url": "https://www.prophero.com/are-you-calculating-rental-yield-correctly/",
+    "start": null,
+    "end": null,
+    "text": "t. It does not take into account other expenses associated with property ownership, such as property management fees, maintenance costs, property taxes, and insurance. Net Rental Yield: This calculation considers the net income from the property after deducting all associated expenses. The formula is: Our Cashflow Calculator True to the PropHero way, we’ve done the hard work for you and have put together an easy to use spreadsheet that will calculate the rental yield for multiple properties in this cashflow calculator. Download it now to analyse the feasibility of investing in your next property. Go Back to Blog Book a call PropHero About PropHero How it works Data & AI Resources Press and Blogs Refer a friend Frequently asked questions 2025 | © PropHero | All rights reserved Terms and Con"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_rental_yield",
+    "title": "Are You Calculating Rental Yield Correctly?",
+    "url": "https://www.prophero.com/are-you-calculating-rental-yield-correctly/",
+    "start": null,
+    "end": null,
+    "text": "logs Refer a friend Frequently asked questions 2025 | © PropHero | All rights reserved Terms and Conditions Privacy Policy Cookies Policy Legal"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_property_vs_shares",
+    "title": "Property vs Shares: What’s the Difference & Which is Better for You?",
+    "url": "https://www.prophero.com/property-vs-shares-whats-the-difference-which-is-better-for-you/",
+    "start": null,
+    "end": null,
+    "text": "How it works About us Data and AI Press and Blog How it works About us Data and AI Press and Blog EN ES Book a free investment session Prophero October 15, 2025 Property vs Shares: What’s the Difference & Which Is Better For You There are so many options when it comes to investing your money to grow wealth, and it can be really overwhelming and stressful choosing the right investment path for your unique situation. Let it be known though, that everyone’s personal situation is different and you’ll need to choose the right option based on your specific circumstances. When it comes to investing in property or shares there are distinct differences so we’ve created this post to help demystify the difference for you and help you choose the right path. The benefit of investing in property Investi"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_property_vs_shares",
+    "title": "Property vs Shares: What’s the Difference & Which is Better for You?",
+    "url": "https://www.prophero.com/property-vs-shares-whats-the-difference-which-is-better-for-you/",
+    "start": null,
+    "end": null,
+    "text": "difference for you and help you choose the right path. The benefit of investing in property Investing in property is a big decision. It can take time, there are costs to investing in property, but the reason millions of Australians choose to invest in property is because the overall return is higher, there is less risk compared to shares and you also get the experience of owning something tangible that could be passed on or sold later down the line. Unlike shares, investing in property gives you immediate access to cash flows. The average return for investing in the stock market can take up to 10 years. If you want to learn about the pitfalls of investing in property, you can download our 10 minute webinar here. This will give you tips and tricks on the areas and locations to avoid if you"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_property_vs_shares",
+    "title": "Property vs Shares: What’s the Difference & Which is Better for You?",
+    "url": "https://www.prophero.com/property-vs-shares-whats-the-difference-which-is-better-for-you/",
+    "start": null,
+    "end": null,
+    "text": "0 minute webinar here. This will give you tips and tricks on the areas and locations to avoid if you’re concerned about investing in property. The benefit of investing in shares The stock market is known to be more liquid than investing in tangible properties. The higher the liquidity means the faster you’ll have access to cash. The stock market brings togethers millions of investors into one economy, which reduces the cost of every transaction significantly. Given the cost to entry of investing in stocks is very low, you can also spread your risk across multiple investments easily. The benefit of property over shares Though you may prefer the fast paced, almost betting nature of investing in stocks, the PropHero team firmly believes there are significant advantages of property investments"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_property_vs_shares",
+    "title": "Property vs Shares: What’s the Difference & Which is Better for You?",
+    "url": "https://www.prophero.com/property-vs-shares-whats-the-difference-which-is-better-for-you/",
+    "start": null,
+    "end": null,
+    "text": "n stocks, the PropHero team firmly believes there are significant advantages of property investments over shares. Check them out below: Leverage: You can borrow funds to amplify your return The bank will finance 80 or 80% of your investment which means if you invest wisely you can multiply the return on the money you invested by 5 or 10. This isn’t the case with the stock market. The bank is not going to lend you 80% of the money to invest in the stock market. Cash flows If you invest wisely you can get significant cash flows every month. And if you invest in the right areas, this can grow very quickly. There are not many other types of investment that can deliver cash flows that grow each month. The stock market is more volatile The stock markets are volatile. They go up and down all the"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_property_vs_shares",
+    "title": "Property vs Shares: What’s the Difference & Which is Better for You?",
+    "url": "https://www.prophero.com/property-vs-shares-whats-the-difference-which-is-better-for-you/",
+    "start": null,
+    "end": null,
+    "text": "onth. The stock market is more volatile The stock markets are volatile. They go up and down all the time. In property, despite the changes and booms, they are more stable over time and you won’t be at risk of losing your investment the same way you could with the stock market. In short, both types of investment have their advantages, but if you’re looking for greater stability, a steady income stream, and a tangible asset, real estate investment might be your best option. Want to analyze which of the two options is best for you? Book a free investment session with our experts and discover the strategy that best suits your financial goals. Go Back to Blog Book a call PropHero About PropHero How it works Data & AI Resources Press and Blogs Refer a friend Frequently asked questions 2025 | © P"
+  },
+  {
+    "source_type": "blog",
+    "video_id": "blog_property_vs_shares",
+    "title": "Property vs Shares: What’s the Difference & Which is Better for You?",
+    "url": "https://www.prophero.com/property-vs-shares-whats-the-difference-which-is-better-for-you/",
+    "start": null,
+    "end": null,
+    "text": "ow it works Data & AI Resources Press and Blogs Refer a friend Frequently asked questions 2025 | © PropHero | All rights reserved Terms and Conditions Privacy Policy Cookies Policy Legal"
+  }
+]
